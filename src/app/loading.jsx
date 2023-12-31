@@ -10,7 +10,7 @@ export default function Loading() {
           maxWidth: "100%",
           height: "auto",
         }}
-        >
+      >
       </Image>
     </div>
   );
